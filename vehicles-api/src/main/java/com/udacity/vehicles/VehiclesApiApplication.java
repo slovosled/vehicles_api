@@ -1,5 +1,7 @@
 package com.udacity.vehicles;
 
+import com.udacity.vehicles.domain.car.Car;
+import com.udacity.vehicles.domain.car.CarRepository;
 import com.udacity.vehicles.domain.manufacturer.Manufacturer;
 import com.udacity.vehicles.domain.manufacturer.ManufacturerRepository;
 import org.modelmapper.ModelMapper;
